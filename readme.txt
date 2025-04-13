@@ -1,4 +1,4 @@
-Summary
+Summary:
 In this project, we:
 
 Applied unsupervised learning algorithms (K-Means, DBSCAN, Hierarchical Clustering, GMM).
